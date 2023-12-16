@@ -23,6 +23,8 @@ body{
     height: 720px;
     background-color: blue;
 }
+
+    
 h1{
     text-align: center;
     color: black;
@@ -41,4 +43,8 @@ h1{
     margin-top: 100px;
     margin-left: 100px
     object-fit:cover;
+}
+img{
+     height:50px;width:50px;
+    border-raduis:50%;
 }
